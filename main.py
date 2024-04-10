@@ -21,8 +21,6 @@ from threading import Thread
 
 Working = True
 
-print(banner)
-
 def Loading():
     white = 37
     black = 0
